@@ -5,10 +5,10 @@
 ---
 
 ## 本日の資料
+- ドキュメント
+  - https://dat17.github.io/winter-sp/winter-sp-17.pdf
 - スライド
   - https://gitpitch.com/dat17/winter-sp
-- ドキュメント
-  - https://github.com/dat17/winter-sp/blob/master/winter-sp-17.pdf
 
 ---
 
