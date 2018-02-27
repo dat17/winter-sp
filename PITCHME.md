@@ -77,13 +77,8 @@
 
 ---
 
-### お気軽でおススメ
--  Unity Asset Portal スクショコンテスト http://assetstore.info/eventandcontest/screenshotposting/
-
----
-
 ## ゲームに使うデータの作成
-ここからは、チーム活動について。
+ここからはチーム活動について。
 
 ---
 
